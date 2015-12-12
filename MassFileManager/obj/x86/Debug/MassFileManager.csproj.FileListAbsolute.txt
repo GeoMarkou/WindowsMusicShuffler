@@ -1,0 +1,39 @@
+c:\users\zabrobi\documents\visual studio 2010\Projects\MassFileManager\MassFileManager\obj\x86\Debug\MassFileManager.MainWindow.resources
+c:\users\zabrobi\documents\visual studio 2010\Projects\MassFileManager\MassFileManager\obj\x86\Debug\MassFileManager.Properties.Resources.resources
+c:\users\zabrobi\documents\visual studio 2010\Projects\MassFileManager\MassFileManager\obj\x86\Debug\MassFileManager.csproj.GenerateResource.Cache
+c:\users\zabrobi\documents\visual studio 2010\Projects\MassFileManager\MassFileManager\bin\Debug\MassFileManager.exe.config
+c:\users\zabrobi\documents\visual studio 2010\Projects\MassFileManager\MassFileManager\bin\Debug\MassFileManager.exe
+c:\users\zabrobi\documents\visual studio 2010\Projects\MassFileManager\MassFileManager\bin\Debug\MassFileManager.pdb
+c:\users\zabrobi\documents\visual studio 2010\Projects\MassFileManager\MassFileManager\obj\x86\Debug\MassFileManager.exe
+c:\users\zabrobi\documents\visual studio 2010\Projects\MassFileManager\MassFileManager\obj\x86\Debug\MassFileManager.pdb
+C:\Users\Zabrobi\documents\visual studio 2010\Projects\MassFileManager\MassFileManager\obj\x86\Debug\MassFileManager.csprojResolveAssemblyReference.cache
+C:\Users\Zabrobi\Documents\_Projects\MassFileManager\MassFileManager\bin\Debug\MassFileManager.exe.config
+C:\Users\Zabrobi\Documents\_Projects\MassFileManager\MassFileManager\obj\x86\Debug\MassFileManager.exe
+C:\Users\Zabrobi\Documents\_Projects\MassFileManager\MassFileManager\obj\x86\Debug\MassFileManager.pdb
+C:\Users\Zabrobi\Documents\_Projects\MassFileManager\MassFileManager\bin\Debug\MassFileManager.exe
+C:\Users\Zabrobi\Documents\_Projects\MassFileManager\MassFileManager\bin\Debug\MassFileManager.pdb
+C:\Users\Zabrobi\Documents\_Projects\MassFileManager\MassFileManager\obj\x86\Debug\MassFileManager.csprojResolveAssemblyReference.cache
+C:\Users\Zabrobi\Documents\_Projects\MassFileManager\MassFileManager\obj\x86\Debug\MassFileManager.MainWindow.resources
+C:\Users\Zabrobi\Documents\_Projects\MassFileManager\MassFileManager\obj\x86\Debug\MassFileManager.Properties.Resources.resources
+C:\Users\Zabrobi\Documents\_Projects\MassFileManager\MassFileManager\obj\x86\Debug\MassFileManager.csproj.GenerateResource.Cache
+C:\Users\George\Desktop\Stuff\_Projects\MassFileManager\MassFileManager\bin\Debug\MassFileManager.exe.config
+C:\Users\George\Desktop\Stuff\_Projects\MassFileManager\MassFileManager\obj\x86\Debug\MassFileManager.exe
+C:\Users\George\Desktop\Stuff\_Projects\MassFileManager\MassFileManager\obj\x86\Debug\MassFileManager.pdb
+C:\Users\George\Desktop\Stuff\_Projects\MassFileManager\MassFileManager\bin\Debug\MassFileManager.exe
+C:\Users\George\Desktop\Stuff\_Projects\MassFileManager\MassFileManager\bin\Debug\MassFileManager.pdb
+C:\Users\George\Desktop\Stuff\_Projects\MassFileManager\MassFileManager\obj\x86\Debug\MassFileManager.csprojResolveAssemblyReference.cache
+C:\Users\George\Desktop\Stuff\_Projects\MassFileManager\MassFileManager\obj\x86\Debug\MassFileManager.MainWindow.resources
+C:\Users\George\Desktop\Stuff\_Projects\MassFileManager\MassFileManager\obj\x86\Debug\MassFileManager.Properties.Resources.resources
+C:\Users\George\Desktop\Stuff\_Projects\MassFileManager\MassFileManager\obj\x86\Debug\MassFileManager.csproj.GenerateResource.Cache
+C:\Users\George\Desktop\Stuff\_Projects\MassFileManager\MassFileManager\obj\x86\Debug\MassFileManager.OptionsForm.resources
+C:\Users\George\Dropbox\_Projects\MassFileManager\MassFileManager\bin\Debug\MassFileManager.exe.config
+C:\Users\George\Dropbox\_Projects\MassFileManager\MassFileManager\obj\x86\Debug\MassFileManager.exe
+C:\Users\George\Dropbox\_Projects\MassFileManager\MassFileManager\obj\x86\Debug\MassFileManager.pdb
+C:\Users\George\Dropbox\_Projects\MassFileManager\MassFileManager\bin\Debug\MassFileManager.exe
+C:\Users\George\Dropbox\_Projects\MassFileManager\MassFileManager\bin\Debug\MassFileManager.pdb
+C:\Users\George\Dropbox\_Projects\MassFileManager\MassFileManager\obj\x86\Debug\MassFileManager.csprojResolveAssemblyReference.cache
+C:\Users\George\Dropbox\_Projects\MassFileManager\MassFileManager\obj\x86\Debug\MassFileManager.MainWindow.resources
+C:\Users\George\Dropbox\_Projects\MassFileManager\MassFileManager\obj\x86\Debug\MassFileManager.OptionsForm.resources
+C:\Users\George\Dropbox\_Projects\MassFileManager\MassFileManager\obj\x86\Debug\MassFileManager.Properties.Resources.resources
+C:\Users\George\Dropbox\_Projects\MassFileManager\MassFileManager\obj\x86\Debug\MassFileManager.csproj.GenerateResource.Cache
+C:\Users\George\Dropbox\_Projects\MassFileManager\MassFileManager\obj\x86\Debug\MassFileManager.HelpForm.resources
